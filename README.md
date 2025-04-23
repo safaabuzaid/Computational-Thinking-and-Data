@@ -1,4 +1,3 @@
-# Computational-Thinking-and-Data
 
 # Computational Thinking and Data – 6.00.2x (edX | MITx)
 
@@ -11,6 +10,7 @@ The course teaches how to use computation to solve a wide variety of real-world 
 This course is designed for learners with some prior programming experience in Python and basic knowledge of computational complexity. It places a strong emphasis on writing programs to implement concepts and solve problems computationally.
 
 Throughout the course, I’ve worked on problems like:
+
 - Simulating a robot vacuum cleaning a room
 - Modeling virus replication and drug treatments in a patient’s body
 
