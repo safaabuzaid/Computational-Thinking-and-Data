@@ -1,28 +1,54 @@
+# MITx: Computational Thinking Using Python Series (6.00.1x & 6.00.2x)
 
-# Computational Thinking and Data – 6.00.2x (edX | MITx)
+This repository contains a collection of mini-projects and problem sets completed as part of the MITx edX series:
 
-This repository contains my personal solutions and notes from the MITx course "Introduction to Computational Thinking and Data (6.00.2x)", hosted on edX.
+- 6.00.1x: Introduction to Computer Science and Programming in Python
+- 6.00.2x: Introduction to Computational Thinking and Data
 
-The course teaches how to use computation to solve a wide variety of real-world problems and provides a practical introduction to algorithmic thinking, data modeling, and simulations — all implemented in Python 3.
+These courses are part of the MITx "Computational Thinking Using Python" series and provide a strong foundation in programming, algorithmic thinking, and data-driven problem solving using Python 3.
 
-## Course Description
+---
 
-This course is designed for learners with some prior programming experience in Python and basic knowledge of computational complexity. It places a strong emphasis on writing programs to implement concepts and solve problems computationally.
+## Overview
 
-Throughout the course, I’ve worked on problems like:
+Each folder in this repository represents a problem set from the series and includes:
+- My solution to the coding challenge
+- Optional notes summarizing key concepts
+- Reflections on what the task taught me
 
-- Simulating a robot vacuum cleaning a room
-- Modeling virus replication and drug treatments in a patient’s body
+---
 
 ## Topics Covered
 
-- Advanced programming in Python 3  
-- Knapsack problem and optimization  
-- Graphs and graph-based algorithms  
-- Dynamic programming  
-- Plotting with pylab  
-- Random walks  
-- Probability and distributions  
-- Monte Carlo simulations  
-- Curve fitting  
-- Statistical fallacies
+Across both courses, the following topics are explored:
+
+- Python programming (functions, recursion, OOP)
+- Algorithm design and complexity
+- Data structures (lists, dictionaries, tuples)
+- Simulation and modeling
+- Probability and statistics
+- Monte Carlo simulations
+- Random walks
+- Dynamic programming
+- Graphs and graph optimization
+- Curve fitting and data visualization with pylab
+
+---
+
+## Problem Sets 
+| Course | Problem Set | Description | Link |
+|--------|-------------|-------------|------|
+| 6.00.2x | Problem Set 2 |Simulates Roomba-like robots cleaning a room |[View](https://github.com/safaabuzaid/Computational-Thinking-and-Data/tree/main/robot_simulation)|
+
+
+---
+
+## Disclaimer
+
+This repository is intended for educational and personal reference only. If you're currently enrolled in the course, please avoid copying the solutions — use them to guide your understanding after trying the problems yourself.
+
+---
+
+## About Me
+
+I completed this series as part of my participation in the MIT Emerging Talent Program, aiming to strengthen my foundations in computer science and problem solving using Python.
