@@ -12,6 +12,7 @@ These courses are part of the MITx "Computational Thinking Using Python" series 
 ## Overview
 
 Each folder in this repository represents a problem set from the series and includes:
+
 - My solution to the coding challenge
 - Optional notes summarizing key concepts
 - Reflections on what the task taught me
@@ -35,11 +36,11 @@ Across both courses, the following topics are explored:
 
 ---
 
-## Problem Sets 
+## Problem Sets
+
 | Course | Problem Set | Description | Link |
 |--------|-------------|-------------|------|
 | 6.00.2x | Problem Set 2 |Simulates Roomba-like robots cleaning a room |[View](https://github.com/safaabuzaid/Computational-Thinking-and-Data/tree/main/robot_simulation)|
-
 
 ---
 
