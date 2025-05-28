@@ -3,8 +3,6 @@
 
 # -----------------------------------
 # Helper code
-# You don't need to understand this helper code,
-# but you will have to know how to use the functions
 # (so be sure to read the docstrings!)
 
 import random
@@ -51,7 +49,6 @@ def isWordGuessed(secretWord, lettersGuessed):
     returns: boolean, True if all the letters of secretWord are in lettersGuessed;
       False otherwise
     '''
-    # FILL IN YOUR CODE HERE...
     x = True
     for l in secretWord:
         x = x and (l in lettersGuessed)      
@@ -66,7 +63,7 @@ def getGuessedWord(secretWord, lettersGuessed):
     returns: string, comprised of letters and underscores that represents
       what letters in secretWord have been guessed so far.
     '''
-    # FILL IN YOUR CODE HERE...
+
     result = ""
     for l in secretWord:
         if l in lettersGuessed:
@@ -85,7 +82,7 @@ def getAvailableLetters(lettersGuessed):
     returns: string, comprised of letters that represents what letters have not
       yet been guessed.
     '''
-    # FILL IN YOUR CODE HERE...
+
     allLetters = string.ascii_lowercase
     availableLetters = ""
     for i in allLetters:
@@ -115,7 +112,7 @@ def hangman(secretWord):
 
     Follows the other limitations detailed in the problem write-up.
     '''
-    # FILL IN YOUR CODE HERE...
+
     guessesLeft = 8
     lettersGuessed = []
     x = getAvailableLetters(lettersGuessed)
