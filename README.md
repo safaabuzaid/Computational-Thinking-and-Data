@@ -41,6 +41,7 @@ Across both courses, the following topics are explored:
 | Course | Problem Set | Description | Link |
 |--------|-------------|-------------|------|
 | 6.00.1x | Problem Set 3 | Hangman Word-guessing Game| [view](https://github.com/safaabuzaid/Computational-Thinking-and-Data/tree/main/hangman)|
+| 6.00.1x | Problem Set 4 | Scrabble Word-guessing Game| [view](https://github.com/safaabuzaid/Computational-Thinking-and-Data/tree/main/scrabble_game)|
 | 6.00.2x | Problem Set 2 |Simulates Roomba-like robots cleaning a room |[View](https://github.com/safaabuzaid/Computational-Thinking-and-Data/tree/main/robot_simulation)|
 
 ---
