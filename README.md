@@ -55,3 +55,13 @@ This repository is intended for educational and personal reference only. If you'
 ## About Me
 
 I completed this series as part of my participation in the MIT Emerging Talent Program, aiming to strengthen my foundations in computer science and problem solving using Python.
+
+---
+
+## 📜 Certifications
+
+Here are the certificates from this learning journey:
+
+- [Computational Thinking Using Python](https://credentials.edx.org/credentials/392fca7aaecd4b4db3a189a3e8845d32/)
+  - [Introduction to Computer Science and Programming using Python](https://courses.edx.org/certificates/606ffd6080f542d487f54d4fd58ed3cd)
+  - [Introduction to Computational Thinking and Data Science](https://courses.edx.org/certificates/e44cad03c7c54155b0563bd6c016ccce)
